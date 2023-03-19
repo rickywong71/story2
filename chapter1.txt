@@ -1,1 +1,2 @@
 This is the my earning git using gui as a beginner.
+Git is good and I love it.
